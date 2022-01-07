@@ -1,0 +1,5 @@
+2022-01-06 15:44:12,243 [DEBUG] io.github.bonigarcia.wdm.cache.ResolutionCache  - Resolution chrome=95 in cache (valid until 16:27:24 06/01/2022 IST)
+2022-01-06 15:44:12,244 [DEBUG] io.github.bonigarcia.wdm.cache.ResolutionCache  - Resolution chrome95=95.0.4638.69 in cache (valid until 15:35:57 07/01/2022 IST)
+2022-01-06 15:44:12,244 [INFO ] io.github.bonigarcia.wdm.WebDriverManager  - Using chromedriver 95.0.4638.69 (resolved driver for Chrome 95)
+2022-01-06 15:44:12,252 [DEBUG] io.github.bonigarcia.wdm.WebDriverManager  - Driver chromedriver 95.0.4638.69 found in cache
+2022-01-06 15:44:12,253 [INFO ] io.github.bonigarcia.wdm.WebDriverManager  - Exporting webdriver.chrome.driver as /home/ramesh/.cache/selenium/chromedriver/linux64/95.0.4638.69/chromedriver
